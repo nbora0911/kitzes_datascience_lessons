@@ -1,0 +1,1 @@
+Data downloaded from North American Breeding Bird Survey web interface at http://www.pwrc.usgs.gov/BBS/RawData/ on December 5, 2015. Table contains summary species counts for California.
