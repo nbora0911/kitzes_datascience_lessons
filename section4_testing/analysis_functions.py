@@ -1,4 +1,16 @@
+"""
+Module containing functions to calculate mean number of sightings of 
+bird species.
+
+Functions
+---------
+count_birds - Calculate mean number of birds per species present.
+
+"""
+
 import pandas as pd
+
+
 
 def avg_count_birds(sdf):
     """
